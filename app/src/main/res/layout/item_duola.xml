@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="2dp"
+    android:layout_margin="2dp"
+    android:background="@color/accent_text"
+    android:padding="3dp">
+    <ImageView
+        android:padding="6dp"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/banner_height"
+        android:id="@+id/iv_duo_la"/>
+</android.support.v7.widget.CardView>

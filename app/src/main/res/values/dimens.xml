@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="banner_height">180dp</dimen>
+    <dimen name="play_bar_height">60dp</dimen>
+    <dimen name="play_bar_main_height">56dp</dimen>
+</resources>
